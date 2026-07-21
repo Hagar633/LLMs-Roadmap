@@ -116,21 +116,5 @@ Built a semantic search engine that:
 
 ---
 
-## Upcoming Projects
-
-- PDF Question Answering (RAG)
-- Research Assistant
-- AI Chatbot
-- AI Research Agent
-- Multi-Agent Research System
-- LangGraph Workflows
-- ARC-AGI Experiments
-
----
 
 
-# 🤝 Connect
-
-If you're also learning LLMs or working on Generative AI projects, feel free to connect or share feedback!
-
-⭐ If you find this repository useful, consider giving it a star.
